@@ -17,9 +17,9 @@ Motivated Java Full Stack Developer offers 3.5+ years of experience leading cros
   - Experience in giving initial training, knowledge transfer to new joiners including seniors and helping the team in completing complex tasks within the timeline.
 
 ## 💻 Technical Skills
-  **Languages** - Java, C++, JavaScript, HTML & CSS, Python
-  **Framework/Technologies** - Spring Core & MVC, Spring boot, Microservices, React JS, AWS
-  **Domains** - Java Full Stack Development
+  **Languages** - Java, C++, JavaScript, HTML & CSS, Python<br>
+  **Framework/Technologies** - Spring Core & MVC, Spring boot, Microservices, React JS, AWS<br>
+  **Domains** - Java Full Stack Development<br>
 
 ## 🏆 Accomplishments
   - Acknowledged by Microsoft for finding security vulnerability in Microsoft online services and received a bounty award of $3000 for protecting all the organizations using Microsoft online services and was listed on [Microsoft Acknowledgment page](https://msrc.microsoft.com/update-guide/acknowledgement/online) - Feb 28, 2023
