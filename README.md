@@ -19,3 +19,7 @@
   - I’ve also worked with the cognizant security team to resolve security vulnerabilities in One Cognizant for safeguarding user personal and confidential data, including pay slips, FBP, and other sensitive information.
   - I’ve reported external email banner vulnerability where an attacker can hide/override the external banner which can aid in
   successful phishing attacks (This was affecting multiple organizations that use Outlook)
+
+## 👩🏼‍🎓 Education
+**B Tech in Computer Science Engineering**<br>
+CT Group of Institution - Jalandhar, PB _(Apr 2016 - Jun 2020)_
