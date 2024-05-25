@@ -2,7 +2,7 @@
 
 ## 👩🏼‍💻 Experience
 
-**SOFTWARE ENGINEER** @ [Cognizant](https://cognizant.com) _(DEC 2020 - Present)_<br>
+**SOFTWARE ENGINEER** @ [Cognizant](https://cognizant.com) _(Dec 2020 - Present)_<br>
   - Worked for a large US based energy and utility customer where I’ve worked on development and enhancement of more than 50+ applications.
   - Proven experience in developing REST APIs, Lambda’s and Microservices using java spring boot including SQS and fargates for large-scale applications, resulting in improved maintainability and scalability.
   - Involved in development and management of multiple critical client applications with high traffic.
