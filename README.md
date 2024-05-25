@@ -16,6 +16,11 @@ Motivated Java Full Stack Developer offers 3.5+ years of experience leading cros
   - Identified and resolved critical issues in the client application, ensuring uninterrupted operations and client satisfaction as a result was able to get multiple new projects from client to work on dealing with security vulnerabilities.
   - Experience in giving initial training, knowledge transfer to new joiners including seniors and helping the team in completing complex tasks within the timeline.
 
+## 💻 Technical Skills
+  **Languages** - Java, C++, JavaScript, HTML & CSS, Python
+  **Framework/Technologies** - Spring Core & MVC, Spring boot, Microservices, React JS, AWS
+  **Domains** - Java Full Stack Development
+
 ## 🏆 Accomplishments
   - Acknowledged by Microsoft for finding security vulnerability in Microsoft online services and received a bounty award of $3000 for protecting all the organizations using Microsoft online services and was listed on [Microsoft Acknowledgment page](https://msrc.microsoft.com/update-guide/acknowledgement/online) - Feb 28, 2023
   - I’ve also worked with the cognizant security team to resolve security vulnerabilities in One Cognizant for safeguarding user personal and confidential data, including pay slips, FBP, and other sensitive information.
