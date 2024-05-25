@@ -1,4 +1,4 @@
-[Email](mailto:singh.swaraj1999@gmail.com) / [LinkedIn](https://www.linkedin.com/in/singhswaraj/) / [GitHub](https://github.com/rogerthat07/)
+[singh.swaraj1999@gmail.com](mailto:singh.swaraj1999@gmail.com) / [LinkedIn](https://www.linkedin.com/in/singhswaraj/) / [GitHub](https://github.com/rogerthat07/)
 
 ## 👩🏼‍💻 Experience
 
