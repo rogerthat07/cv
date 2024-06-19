@@ -1,4 +1,4 @@
-[Email](mailto:singh.swaraj1999@gmail.com) / [LinkedIn](https://www.linkedin.com/in/singhswaraj/) / [GitHub](https://github.com/rogerthat07/)
+[Email](mailto:singh.swaraj1999@gmail.com) / [LinkedIn](https://www.linkedin.com/in/singhswaraj/) / [GitHub](https://github.com/rogerthat07/) / +91-7087359052
 
 ## 👩🏼‍💻 Experience
 
@@ -16,8 +16,8 @@
 
 ## 🏆 Accomplishments
   - Acknowledged by Microsoft for finding security vulnerability in Microsoft online services and received a bounty award of $3000 for protecting all the organizations using Microsoft online services and was listed on [Microsoft Acknowledgment page](https://msrc.microsoft.com/update-guide/acknowledgement/online) - Feb 28, 2023
-  - I’ve also worked with the cognizant security team to resolve security vulnerabilities in One Cognizant for safeguarding user personal and confidential data, including pay slips, FBP, and other sensitive information.
-  - I’ve reported external email banner vulnerability where an attacker can hide/override the external banner which can aid in
+  - Worked with the cognizant security team to resolve security vulnerabilities in One Cognizant for safeguarding user personal and confidential data, including pay slips, FBP, and other sensitive information.
+  - Reported external email banner vulnerability where an attacker can hide/override the external banner which can aid in
   successful phishing attacks (This was affecting multiple organizations that use Outlook)
 
 ## 👩🏼‍🎓 Education
